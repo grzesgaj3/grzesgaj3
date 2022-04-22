@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grzesgaj3
 - 👀 I’m interested in 3d printing and frontend programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning bootstrap framework
 
 
 <!---
